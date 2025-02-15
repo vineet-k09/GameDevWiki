@@ -2,8 +2,20 @@
 
 Welcome to the **Game Development Beginner's Wiki**! This repository is dedicated to helping beginners get started with game development by providing essential resources, tutorials, and documentation links for popular game development tools.  
 
-🚧 **This wiki is a work in progress!** 🚧  
+**"I started this wiki because I feel like a lot of people who want to start developing, don't know where to start.
+If you feel like you are one of those people then this might help you on your way :)"** - Xndr
+
+## 🚧 **This wiki is a work in progress!** 🚧  
 We're actively adding more content, so check back often for updates. Contributions and suggestions are always welcome!  
+
+## ❓ Where to start?
+How do you even make games?  
+Check out [this](https://github.com/Xndr2/GameDevWiki/wiki/) article.
+This will help you explain  
+- what game development is
+- the different parts of game development
+- what programs you need to make a game
+- etc, basically everything you need to know to start :)
 
 ## 📌 What This Wiki Covers
 **Game Engines** – Unity, Unreal Engine, Godot  
@@ -19,9 +31,10 @@ We're actively adding more content, so check back often for updates. Contributio
 Browse the wiki by clicking on a category:  
 
 ### 🛠 Game Engines
-- [Unity](https://github.com/Xndr2/GameDevWiki/wiki/Unity)  
-- [Unreal Engine](https://github.com/Xndr2/GameDevWiki/wiki/Unreal) ❌  
-- [Godot](https://github.com/Xndr2/GameDevWiki/wiki/Godot)  
+- [What engine to use](https://github.com/Xndr2/GameDevWiki/wiki/)
+  - [Unity](https://github.com/Xndr2/GameDevWiki/wiki/Unity)  
+  - [Unreal Engine](https://github.com/Xndr2/GameDevWiki/wiki/Unreal) ❌  
+  - [Godot](https://github.com/Xndr2/GameDevWiki/wiki/Godot)  
 
 ### 🎨 Art & Animation
 - [Blender](https://github.com/your-repo/wiki/Blender) ❌
@@ -37,9 +50,12 @@ Want to add new resources or suggest improvements?
 2. **Make your changes** in the Wiki  
 3. **Submit a pull request**  
 
+(or just create an [issue](https://github.com/Xndr2/GameDevWiki/issues) and specify what you want to see added)  
+
 All contributions are welcome! 🙌  
 
 ## 📬 Get in Touch  
 For questions or feedback, open an [issue](https://github.com/Xndr2/GameDevWiki/issues) or reach out via discussions.  
+You can also contact [Xndr](https://discordapp.com/users/434760513377927188) on discord. I'm always happy to help you out!
 
 Happy game developing! 🚀🎮  
