@@ -32,13 +32,13 @@ Browse the wiki by clicking on a category:
 
 ### 🛠 Game Engines
 - [What engine to use](https://github.com/Xndr2/GameDevWiki/wiki/)
-  - [Unity](https://github.com/Xndr2/GameDevWiki/wiki/Unity)  
-  - [Unreal Engine](https://github.com/Xndr2/GameDevWiki/wiki/Unreal) ❌  
-  - [Godot](https://github.com/Xndr2/GameDevWiki/wiki/Godot)  
+  - [Unity](https://github.com/Xndr2/GameDevWiki/wiki/Unity) - Widely used, rich asset store, C#, 2D/3D hybrid, mobile-friendly.
+  - [Unreal Engine](https://github.com/Xndr2/GameDevWiki/wiki/Unreal) ❌ - AAA graphics, Blueprints & C++, high performance, heavy setup.
+  - [Godot](https://github.com/Xndr2/GameDevWiki/wiki/Godot) - Lightweight, open source, GDScript (Python-like), great for indies.
 
 ### 🎨 Art & Animation
-- [Blender](https://github.com/your-repo/wiki/Blender) ❌
-- [Photoshop](https://github.com/your-repo/wiki/Photoshop) ❌  
+- [Blender](https://github.com/your-repo/wiki/Blender) ❌ - 3D modeling, rigging, animation, open source, all-in-one
+- [Photoshop](https://github.com/your-repo/wiki/Photoshop) ❌ - Raster graphics, UI textures, industry standard, paid
 
 ### 🚀 Publishing & Distribution
 - [Steam](https://github.com/your-repo/wiki/Steam) ❌
